@@ -114,7 +114,7 @@ def stats(start=None, end=None):
     ]
 
     # Parse the start date
-    start = dt.datetime.strptime(start,'%m/%d/%Y')
+    start = dt.datetime.strptime(start,'%m%d%Y')
 
     if not end:
         # Query for dates greater than or equal to the start date
@@ -122,7 +122,7 @@ def stats(start=None, end=None):
             filter(Measurement.date >= start).all()
     else:
         # Parse the end date
-        end = dt.datetime.strptime(end,'%m/%d/%Y')
+        end = dt.datetime.strptime(end,'%m%d%Y')
 
         # Query for dates between the start and end dates
         results = session.query(*sel).\
