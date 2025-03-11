@@ -7,14 +7,14 @@ This project involves analyzing climate data for Honolulu, Hawaii, using SQLAlch
 The repository is organized as follows:\
 sqlalchemy-challenge\
 ├── SurfsUp\
-│   ├── Resources                  # Folder containing the SQLite database\
-│   │   ├── hawaii.sqlite\
-│   │   ├── hawaii_measurements.csv\
-│   │   └── hawaii_stations.csv\
-│   │
-│   ├── climate_starter.ipynb      # Jupyter Notebook for climate analysis\
-│   ├── app.py                     # Flask API script\
-│   └── README.md                  # Project documentation\
+|		├── Resources                  # Folder containing the SQLite database\
+│		│   ├── hawaii.sqlite\
+│		│   ├── hawaii_measurements.csv\
+│		│   └── hawaii_stations.csv\
+│		│
+│		├── climate_starter.ipynb      # Jupyter Notebook for climate analysis\
+│		├── app.py                     # Flask API script\
+│		└── README.md                  # Project documentation\
 
 ## Data Exploration and Analysis
 The project involves two main parts: climate data analysis and the creation of a Flask API.
