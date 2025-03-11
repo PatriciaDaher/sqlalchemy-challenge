@@ -4,7 +4,7 @@
 This project involves analyzing climate data for Honolulu, Hawaii, using SQLAlchemy, Pandas, and Matplotlib. The analysis is based on a SQLite database containing weather station and measurement data. The project includes data exploration, visualization, and the creation of a Flask API to present the analyzed data.
 
 ## Project Structure
-The repository is organized as follows:\
+The repository is organized as follows:
 ```
 sqlalchemy-challenge
 └── SurfsUp
