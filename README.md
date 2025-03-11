@@ -6,7 +6,7 @@ This project involves analyzing climate data for Honolulu, Hawaii, using SQLAlch
 ## Project Structure
 The repository is organized as follows:\
 sqlalchemy-challenge\
- │\
+ ├\
  ├── SurfsUp\
  ├── Resources/ # Folder containing the SQLite database\
  │   └── hawaii.sqlite\
