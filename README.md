@@ -16,7 +16,7 @@ sqlalchemy-challenge\
 .   │\
 .   ├── climate_starter.ipynb # Jupyter Notebook for climate analysis\
 .   ├── app.py # Flask API script\
-.   └── README.md # Project documentation\
+.   └── README.md # Project documentation
 
 
 ###Data Exploration and Analysis
