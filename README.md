@@ -53,5 +53,4 @@ The Flask API provides the following routes:
 2. Station Analysis
 3. Flask API
 
-## License
-Open Source
+
