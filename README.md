@@ -5,21 +5,6 @@ This project involves analyzing climate data for Honolulu, Hawaii, using SQLAlch
 
 ## Project Structure
 The repository is organized as follows:\
-│
-├── EmployeeSQL/
-│ ├── Data/ # Folder containing the CSV files
-│ │ ├── departments.csv
-│ │ ├── dept_emp.csv
-│ │ ├── dept_manager.csv
-│ │ ├── employees.csv
-│ │ ├── salaries.csv
-│ │ └── titles.csv
-│ │
-
-
-
-
-
 
 sqlalchemy-challenge\
 ├── SurfsUp\
