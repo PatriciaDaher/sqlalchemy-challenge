@@ -9,9 +9,9 @@ sqlalchemy-challenge\
 │\
 ├── SurfsUp\
 ├── Resources/ # Folder containing the SQLite database\
-│ └── hawaii.sqlite\
-│ └── hawaii_measurements.csv\
-│ └── hawaii_stations.csv\
+│   └── hawaii.sqlite\
+│   └── hawaii_measurements.csv\
+│   └── hawaii_stations.csv\
 │\
 ├── climate_starter.ipynb # Jupyter Notebook for climate analysis\
 ├── app.py # Flask API script\
